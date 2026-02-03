@@ -1,0 +1,28 @@
+{
+  "hotel": "Grand Plaza",
+  "location": "New York",
+  "rooms": [
+    {
+      "type": "Deluxe",
+      "price": 200,
+      "available": true
+    }
+  ],
+  "guests": [
+    {
+      "name": "Alice Johnson",
+      "age": 30,
+      "email": "alice.johnson@example.com"
+    },
+    {
+      "name": "Bob Smith",
+      "age": null,
+      "email": "bob.smith@example.com"
+    }
+  ],
+  "roomDetails": {
+    "type": "Suite",
+    "pricePerNight": 200,
+    "amenities": ["WiFi", "Breakfast", "Parking"]
+  }
+}
